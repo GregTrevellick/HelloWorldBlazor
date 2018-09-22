@@ -7,14 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWeb", "BlazorWeb\Blaz
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6DB6DE27-9FBB-4D14-BDA5-145E81CB304A}"
 	ProjectSection(SolutionItems) = preProject
-		.gitattributes = .gitattributes
-		.gitignore = .gitignore
-		_config.yml = _config.yml
-		appveyor.yml = appveyor.yml
-		CHANGELOG.md = CHANGELOG.md
-		LICENSE.txt = LICENSE.txt
-		README.md = README.md
-		renovate.json = renovate.json
+		..\.gitignore = ..\.gitignore
+		..\_config.yml = ..\_config.yml
+		..\appveyor.yml = ..\appveyor.yml
+		..\CHANGELOG.md = ..\CHANGELOG.md
+		..\LICENSE.txt = ..\LICENSE.txt
+		..\README.md = ..\README.md
+		..\renovate.json = ..\renovate.json
 	EndProjectSection
 EndProject
 Global
