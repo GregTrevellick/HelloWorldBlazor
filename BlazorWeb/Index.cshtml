@@ -1,20 +1,34 @@
 ﻿@page "/"
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif">
+<div style="font-family: 'Segoe UI', Tahoma, Helvetica, sans-serif">
 
     @functions {
-        string hello { get { return "Hello Experimental Blazor World"; } }
+        string hello
+        {
+            get
+            {
+                return "Hello Experimental Blazor World";
+            }
+        }
     }
 
     <strong>@hello @now</strong>
 
     @functions {
-        string now { get { return $"at {DateTime.Now.ToLongDateString()} on {DateTime.Now.ToLongTimeString()}"; } }
+        string now
+        {
+            get
+            {
+                return $"at {DateTime.Now.ToLongDateString()} on {DateTime.Now.ToLongTimeString()}";
+            }
+        }
     }
 
-    <p/>
-    NOTE: Blazor is an unsupported experimental web framework that shouldn't be used for production workloads at this time (September 2018) <a href="https://blazor.net/index.html" target="_blank">more info</a>
-
+    <p />
+    <div style="color: #31708f; background-color: #d9edf7; border-color: #bce8f1; width: 80%;">
+        NOTE: Blazor is an unsupported experimental web framework that shouldn't be used for production workloads at this time (September 2018) <a href="https://blazor.net/index.html" target="_blank">more info</a>
+    </div>
+    
     <p />
     <a href="https://blazor.net/docs/get-started.html" target="_blank">Get started</a>
 
