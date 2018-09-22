@@ -8,33 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Shared\**" />
-    <Compile Remove="wwwroot\css\**" />
-    <Compile Remove="wwwroot\sample-data\**" />
-    <Compile Remove="zShared\**" />
-    <Content Remove="Shared\**" />
-    <Content Remove="wwwroot\css\**" />
-    <Content Remove="wwwroot\sample-data\**" />
-    <Content Remove="zShared\**" />
-    <EmbeddedResource Remove="Shared\**" />
-    <EmbeddedResource Remove="wwwroot\css\**" />
-    <EmbeddedResource Remove="wwwroot\sample-data\**" />
-    <EmbeddedResource Remove="zShared\**" />
-    <None Remove="Shared\**" />
-    <None Remove="wwwroot\css\**" />
-    <None Remove="wwwroot\sample-data\**" />
-    <None Remove="zShared\**" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Remove="Pages\Counter.cshtml" />
-    <Content Remove="Pages\FetchData.cshtml" />
-    <Content Remove="Pages\zCounter.cshtml" />
-    <Content Remove="Pages\zFetchData.cshtml" />
-    <Content Remove="Pages\z_ViewImports.cshtml" />
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Blazor.Browser" Version="0.5.1" />
     <PackageReference Include="Microsoft.AspNetCore.Blazor.Build" Version="0.5.1" />
     <DotNetCliToolReference Include="Microsoft.AspNetCore.Blazor.Cli" Version="0.5.1" />
