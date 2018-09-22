@@ -5,13 +5,13 @@ namespace BlazorWeb
 {
     public class Startup
     {
-        public void ConfigureServices(IServiceCollection services)
+        public void ConfigureServices(IServiceCollection serviceCollection)
         {
         }
 
-        public void Configure(IBlazorApplicationBuilder app)
+        public void Configure(IBlazorApplicationBuilder blazorApplicationBuilder)
         {
-            app.AddComponent<App>("myApp");
+            blazorApplicationBuilder.AddComponent<MyApp>("myApp");
         }
     }
 }
