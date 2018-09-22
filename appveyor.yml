@@ -6,12 +6,12 @@ environment:
 install:
     - choco install "sonarscanner-msbuild-net46" -y
 before_build:
-    - cmd: nuget restore Src/OpenInApp.Launcher.sln
+    - cmd: nuget restore Src/BlazorWeb.sln
     - choco install opencover.portable
     - choco install codecov
-    - SonarScanner.MSBuild.exe begin /k:"OpenInApp.Launcher" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
+    - SonarScanner.MSBuild.exe begin /k:"BlazorWeb" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
 build:
-    project: Src/OpenInApp.Launcher.sln
+    project: Src/BlazorWeb.sln
     verbosity: minimal
 after_build:
     - SonarScanner.MSBuild.exe end /d:"sonar.login=%my_encrypted_sonarqube_token%"
@@ -22,6 +22,3 @@ notifications:
   on_build_success: false
   on_build_failure: false
   on_build_status_changed: true
-test_script:
-- OpenCover.Console.exe -register:user -target:"nunit3-console.exe" -targetargs:".\src\OpenInApp.Common.Tests\bin\Debug\OpenInApp.Common.Tests.dll -noshadow" -filter:"+[UnitTestTargetProject*]* -[OpenInApp.Common.Tests*]*" -output:".\MyProject_coverage.xml"
-- codecov -f "MyProject_coverage.xml"
