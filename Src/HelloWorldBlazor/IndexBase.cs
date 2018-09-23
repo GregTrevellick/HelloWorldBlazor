@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Blazor.Components;
 
-namespace BlazorWeb
+namespace HelloWorldBlazor
 {
     public class IndexBase : BlazorComponent
     {

@@ -6,12 +6,12 @@ environment:
 install:
     - choco install "sonarscanner-msbuild-net46" -y
 before_build:
-    - cmd: nuget restore Src/BlazorWeb.sln
+    - cmd: nuget restore Src/HelloWorldBlazor.sln
     - choco install opencover.portable
     - choco install codecov
-    - SonarScanner.MSBuild.exe begin /k:"BlazorWeb" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
+    - SonarScanner.MSBuild.exe begin /k:"HelloWorldBlazor" /d:"sonar.host.url=https://sonarqube.com" /d:"sonar.login=%my_encrypted_sonarqube_token%" /d:"sonar.organization=gregtrevellick-github"
 build:
-    project: Src/BlazorWeb.sln
+    project: Src/HelloWorldBlazor.sln
     verbosity: minimal
 after_build:
     - SonarScanner.MSBuild.exe end /d:"sonar.login=%my_encrypted_sonarqube_token%"

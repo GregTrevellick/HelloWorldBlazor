@@ -1,9 +1,4 @@
-[VersionNumberBadgeURL]: https://vsmarketplacebadge.apphb.com/version/GregTrevellick.OpenInEmacs.svg
-[VSMarketplaceUrl]: https://marketplace.visualstudio.com/search?term=trevellick&target=VS&sortBy=Relevance
-[CharityWareURL]: https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Charity-Ware
-[WhyURL]: https://github.com/GregTrevellick/MiscellaneousArtefacts/wiki/Why
-
-# Open In App Launcher
+# Hello World Blazor
 
 <!--BadgesSTART-->
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
@@ -14,13 +9,12 @@
 
 <!--BadgesEND-->
 
+A minimal .Net Standard implementation of [Blazor](https://blazor.net/).
 
-
-
-
-
+<!--
 https://blazor.net/docs/get-started.html
 
 https://msdn.microsoft.com/magazine/mt829752?MC=MSAzure&MC=DevOps&MC=Vstudio&MC=Testing&MC=CSHARP&f=255&MSPPError=-2147217396
 
 https://marketplace.visualstudio.com/items?itemName=aspnet.blazor
+-->
