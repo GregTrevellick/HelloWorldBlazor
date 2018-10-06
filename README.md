@@ -4,6 +4,8 @@
 [![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
 <!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
 
+[Subscribe](https://github.com/GregTrevellick/HelloWorldBlazor/subscription) to receive notificatons.
+
 [![BetterCodeHub compliance](https://bettercodehub.com/edge/badge/GregTrevellick/HelloWorldBlazor?branch=master)](https://bettercodehub.com/results/GregTrevellick/HelloWorldBlazor)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52248629623c4b99b7039e7adb2a54c5)](https://www.codacy.com/project/gtrevellick/HelloWorldBlazor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldBlazor&amp;utm_campaign=Badge_Grade_Dashboard)
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor)
