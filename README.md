@@ -1,8 +1,8 @@
 # Hello World Blazor
 
 <!--BadgesSTART-->
-[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/GregTrevellick/ReadMeSynchronizer)
-<!-- Powered by https://github.com/GregTrevellick/ReadMeSynchronizer -->
+[![Read Me Synchronizer](https://img.shields.io/badge/-powered%20by%20read%20me%20synchronizer-brightgreen.svg)](https://github.com/undefined/ReadMeSynchronizer)
+<!-- Powered by https://github.com/undefined/ReadMeSynchronizer -->
 
 [Subscribe](https://github.com/GregTrevellick/HelloWorldBlazor/subscription) to receive notificatons.
 
@@ -26,7 +26,7 @@
 [![Sonar&metric=vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=HelloWorldBlazor&metric=vulnerabilities)](https://sonarcloud.io/component_measures?id=HelloWorldBlazor&metric=vulnerabilities)
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9ik81ir38chjwcp9?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldBlazor.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor/build/tests)
-[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_build/latest?definitionId=)
+[![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_build/latest?definitionId=37)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
 [![Renovate Bot github](https://img.shields.io/badge/renovatebot-checked-brightgreen.svg)](https://renovatebot.com/)
