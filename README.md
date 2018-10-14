@@ -10,7 +10,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52248629623c4b99b7039e7adb2a54c5)](https://www.codacy.com/project/gtrevellick/HelloWorldBlazor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldBlazor&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor)
-[![Inspecode Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
+[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldBlazor/depshield.svg)](https://depshield.github.io)
+[![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/context:javascript)
 [![GitHub top language](https://img.shields.io/github/languages/top/GregTrevellick/HelloWorldBlazor.svg)](https://github.com/GregTrevellick/HelloWorldBlazor)
@@ -31,7 +32,7 @@
 [![Appveyor Build status](https://ci.appveyor.com/api/projects/status/9ik81ir38chjwcp9?svg=true)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor)
 [![Appveyor unit tests](https://img.shields.io/appveyor/tests/GregTrevellick/HelloWorldBlazor.svg)](https://ci.appveyor.com/project/GregTrevellick/HelloWorldBlazor/build/tests)
 [![Azure Build Status](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_apis/build/status/HelloWorldBlazor)](https://gregtrevellick.visualstudio.com/HelloWorldBlazor/_build/latest?definitionId=37)
-[![Inspecode Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/status?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldBlazor/latest?completed=true)
+[![InspecodeRocro Job Status](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/status?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/jobs/github.com/GregTrevellick/HelloWorldBlazor/latest?completed=true)
 [![Hound](https://img.shields.io/badge/hound_ci-checked-brightgreen.svg)](https://houndci.com/)
 [![Access Lint github](https://img.shields.io/badge/a11y-checked-brightgreen.svg)](https://www.accesslint.com)
 [![ImgBot](https://img.shields.io/badge/images-optimized-brightgreen.svg)](https://imgbot.net/)
