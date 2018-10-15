@@ -10,7 +10,6 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/52248629623c4b99b7039e7adb2a54c5)](https://www.codacy.com/project/gtrevellick/HelloWorldBlazor/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GregTrevellick/HelloWorldBlazor&amp;utm_campaign=Badge_Grade_Dashboard)
 
 [![CodeFactor](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor/badge)](https://www.codefactor.io/repository/github/GregTrevellick/HelloWorldBlazor)
-[![DepShield](https://depshield.sonatype.org/badges/GregTrevellick/HelloWorldBlazor/depshield.svg)](https://depshield.github.io)
 [![InspecodeRocro Report](https://inspecode.rocro.com/badges/github.com/GregTrevellick/HelloWorldBlazor/report?token=YjllACR0PVsBMwdZA3Q_KoljK5PIQcWuWmd7CuzRgb4)](https://inspecode.rocro.com/reports/github.com/GregTrevellick/HelloWorldBlazor/branch/master/summary)
 [![LGTM Alerts](https://img.shields.io/lgtm/alerts/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/GregTrevellick/HelloWorldBlazor.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/GregTrevellick/HelloWorldBlazor/context:javascript)
